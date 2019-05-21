@@ -19,7 +19,7 @@ public class Book {
     
 
   
-    private Publisher publisher;
+
 
 	public String getTitle() {
 		return title;
@@ -51,14 +51,7 @@ public class Book {
 	}
 
 
-	public Publisher getPublisher() {
-		return publisher;
-	}
 
-
-	public void setPublisher(Publisher publisher) {
-		this.publisher = publisher;
-	}
 
 
 }
